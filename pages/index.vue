@@ -1,11 +1,5 @@
 <template>
-  <div class="layout-wrapper"></div>
-  <div id="header">
     <span class="title">Quiz Master</span>
-  </div>
-  <main id="body">
-
-  </main>
 </template>
 
 <style scoped>

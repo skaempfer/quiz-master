@@ -1,9 +1,8 @@
 <template>
-  <NuxtPage />
+  <NuxtLayout name="sakai">
+    <NuxtPage />
+  </NuxtLayout>
 </template>
 
-<style>
-body {
-  font-family: 'Roboto';
-}
-</style>
+<script setup lang="ts">
+</script>
