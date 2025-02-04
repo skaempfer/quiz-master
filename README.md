@@ -1,4 +1,6 @@
-# Nuxt Minimal Starter
+# WIP Quiz Master
+
+An application for managing and conducting quizes.
 
 ## Setup
 
